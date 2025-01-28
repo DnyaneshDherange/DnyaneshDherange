@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DnyaneshDherange
-- 👀 I’m interested in web devlopment
+- 👀 I’m interested in AWS
 - 🌱 I’m currently learning Bsc computer science
 - 📫 How to reach me dnyaneshdherange1@gmail.com
 
